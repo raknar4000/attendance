@@ -1,11 +1,11 @@
 <?php 
 
      //Development Connection
-    $host = '127.0.0.1';
-    $db = 'attendance';
-    $user = 'root';
-    $pass = '';
-    $charset = 'utf8mb4';
+    //$host = '127.0.0.1';
+    //$db = 'attendance';
+    //$user = 'root';
+    //$pass = '';
+    //$charset = 'utf8mb4';
 
 
     // Remote Database connection
